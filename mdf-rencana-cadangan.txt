@@ -4,4 +4,7 @@ RENCANA CADANGAN MDF
 - Kuliah
   * UNDIP
   * UGM
+   ^ RPL
+   ^ Pembangunan
  - Membuat game seperti Bofuri
+ - Membuat game seperti Mihoyo
