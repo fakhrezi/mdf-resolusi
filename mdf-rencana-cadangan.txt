@@ -4,4 +4,6 @@ RENCANA CADANGAN MDF
 - Kuliah
   * UNDIP
   * UGM
+   ^ TKJ
+   ^ Wirausaha
  - Membuat game seperti Bofuri
