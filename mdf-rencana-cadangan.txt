@@ -6,4 +6,6 @@ RENCANA CADANGAN MDF
   * UGM
    ^ TKJ
    ^ Wirausaha
+   ^ RPL
  - Membuat game seperti Bofuri
+ - Membuat game seperti Mihoyo
